@@ -1,0 +1,2 @@
+# Quat's Last Neuron
+I actually began this project few months ago, but I got stuck in the zig build system stuff. To be fair, that was one of the goals of the project - to learn more about zig build system and write something fun. Today, I just nuked everything I did before, and wrote this simple thing, will be developing stuff a little later probably, cause I still didn't apply anywhere, and it is literally Mon Dec 29 02:26:39 PM +05 2025, so yeah, see you later, if anyone is reading this
